@@ -1,0 +1,5 @@
+﻿enum ExpandState
+{
+    Expanded,
+    Collapsed
+}

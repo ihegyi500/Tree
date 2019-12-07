@@ -1,0 +1,5 @@
+﻿enum SelectionState
+{
+    Selected,
+    NotSelected,
+}
