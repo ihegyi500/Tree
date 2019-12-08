@@ -32,6 +32,7 @@ namespace PocketSolution_Tree
                 else if(input == "E")
                 {
                     Console.WriteLine("Bye!\n");
+                    Console.Read();
                     return;
                 }
                 else
